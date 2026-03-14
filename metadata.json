@@ -1,0 +1,6 @@
+{
+  "name": "Milk Drinker Game",
+  "description": "A simple interactive game where you make a character drink milk by clicking a button. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
